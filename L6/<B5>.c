@@ -1,5 +1,5 @@
-/*Se da un set de valori “W”. Sa se scrie la sfarsit toate combinatiile a elementelor din setul respectiv
-care sa dea suma “S” fara a se repeta valorile din W.*/
+/*Se da un set de valori â€œWâ€. Sa se scrie la sfarsit toate combinatiile a elementelor din setul respectiv
+care sa dea suma â€œSâ€ fara a se repeta valorile din W.*/
 #include<stdio.h>
 #include<stdlib.h>
 int st[40], st1[40], n, p, o;
