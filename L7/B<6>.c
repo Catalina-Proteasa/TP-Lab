@@ -1,7 +1,7 @@
 /*Nea Vasile se intoarce acasa de la cumparaturi, si realizeaza ca si-a uitat codul de la casa scarii. In
 acest moment Nea Vasile are nevoie de ajutorul nostru. Se stie ca pentru codul respective sunt
-folosite 4 cifre din cele 10 (0…9), insa el fiind si la o varsta inaintata nu mai tine minte exact care cifre
-erau mai exact. Sa se genereze toate combinatiile luate cate 4 a celor pe care si le aminteste nea’
+folosite 4 cifre din cele 10 (0â€¦9), insa el fiind si la o varsta inaintata nu mai tine minte exact care cifre
+erau mai exact. Sa se genereze toate combinatiile luate cate 4 a celor pe care si le aminteste neaâ€™
 Vasile. (Cifrele nu se pot repeta)*/
 #include <stdio.h>
 int st[40],st1[40], n, p=4;
