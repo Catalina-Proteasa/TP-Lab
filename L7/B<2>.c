@@ -40,7 +40,7 @@ int verificare()
 			printf("%d\n", i);
 		}
 	if (cate != 0)
-		printf("Sunt %d numere prime circulare sub 10000", c);
+		printf("Sunt %d numere prime circulare sub 10000", cate);
 }
 int main()
 {
