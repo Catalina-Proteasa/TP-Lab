@@ -1,3 +1,7 @@
+/*Numarul 197 este considerat un numar prim circular, deoarece orice combinatie a cifrelor sale
+formeaza un alt numar prim.
+Sa se afiseze toate numerele prime circulare pana in 10.000
+*/
 #include <stdio.h>
 #include <math.h>
 #include <stdbool.h>
