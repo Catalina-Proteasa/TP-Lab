@@ -1,8 +1,8 @@
 /*Sa se implementeze calculul de factorial sub urmatoarea forma:
-- Functie “tail-recursive”
-- Functie “ non-tailed-recursive”
-- Functie “direct recursive”
-- Functie “indirect recursive” */
+- Functie â€œtail-recursiveâ€
+- Functie â€œ non-tailed-recursiveâ€
+- Functie â€œdirect recursiveâ€
+- Functie â€œindirect recursiveâ€ */
 #include<stdio.h> 
 #include<stdlib.h>
 // TAIL-RECURSIVE
