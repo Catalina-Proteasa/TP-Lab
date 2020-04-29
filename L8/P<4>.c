@@ -1,4 +1,4 @@
-/*Sa se implementeze suma numerelor pana la “N” printr-o functie recursiva si prin metodele
+/*Sa se implementeze suma numerelor pana la â€œNâ€ printr-o functie recursiva si prin metodele
 repetitive (for, while, do while)*/
 #include <stdio.h>
 #include <stdlib.h>
