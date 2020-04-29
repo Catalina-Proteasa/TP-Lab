@@ -1,3 +1,11 @@
+/*Sa se calculze “radacina digitala” a unui numar “N” introdus de la tastatura. N &gt; 1.000.000
+Input : 1234567890123456789012345678901234567890
+Output: 9
+- Explicatie: Suma cifrelor input-ului este 180
+- Suma cifrelor “180” este 9
+- Se va insuma fiecare cifra dintr-un sir de numere. In cazul in care suma respectiva are mai
+multe cifre, aceasta se va insuma la randul ei pana cand ramane o singura cifra.
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
