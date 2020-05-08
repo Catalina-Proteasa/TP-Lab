@@ -1,4 +1,4 @@
-//Se citeste o valoarea “N”, sa se determine cea mai lunga secventa de cifre care sa respecte urmatoarea secventa:
+//Se citeste o valoarea â€œNâ€, sa se determine cea mai lunga secventa de cifre care sa respecte urmatoarea secventa:
 // n = n / 2 (n este par)
 // n = 3n + 1 (n este impar
 #include<stdio.h>
