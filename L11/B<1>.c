@@ -1,3 +1,11 @@
+/*Se considera situatia in care pe bursa de valori, o companie prezinta un numar infinit de stocuri.
+Preturile se dau pentru “N” zile, unde v[i] reprezinta costul bursei in ziua “i”. Exista o regula ca un
+client, poate cumpara maxim “i” stocuri in ziua “i” Daca clientul are o suma “k” de $, sa se determina
+maximul de stocuri care pe care un client le poate cumpara.
+Input: v[] = {10, 7 , 19}
+k = 45
+Output : 4
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
