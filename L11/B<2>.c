@@ -1,3 +1,7 @@
+/*
+Fiind dat un numar “k” sa se gaseasca minimul de numere din seria Fibonacci a caror suma da “k”. Se
+poate alege un numar in seria fibonacci o singura data.
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
